@@ -2,4 +2,4 @@ Este es el primer archivo que use en git 05-09-2020 12:17pm
 
 y esta es la primera linea de cambio a las 12:55
 
-hoy hablaremos de su vida y obra maestra.
+mañana nos enfocaremos en su vida laborar.
